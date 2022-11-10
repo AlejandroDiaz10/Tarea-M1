@@ -1,4 +1,6 @@
 # Alejandro Díaz Villagómez - A01276769
+# Fecha - 9/Noviembre/2022
+# Código - Robot de limpieza codificado con el framework Mesa de Python (agent-based modeling)
 
 from mesa.visualization.ModularVisualization import ModularServer
 from mesa.visualization.modules import ChartModule, PieChartModule, CanvasGrid, BarChartModule
